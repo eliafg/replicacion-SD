@@ -1,0 +1,4 @@
+server-backup/node_modules
+client/node_modules
+server/node_modules
+client-backup/node_modules
